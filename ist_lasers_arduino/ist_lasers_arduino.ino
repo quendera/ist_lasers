@@ -3,7 +3,7 @@
 */
 
 int laserAPin = 9;    // Laser1 connected to digital pin 9
-int laserBPin = 13;    // Laser2 connected to digital pin 13
+int laserBPin = 11;    // Laser2 connected to digital pin 13
 
 
 int laserAPwm = 128;    // Laser 1 Pwm 1000mW ( 0 = off, 255 = 1000mW, 128 = 500mW)
